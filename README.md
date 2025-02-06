@@ -31,7 +31,6 @@
 - Fundamental Frequency (MDVP:Fo, MDVP:Fhi, MDVP:Flo)
 - Jitter and Shimmer Parameters
 - Harmonics-to-Noise Ratio (HNR)
-
 - Recurrence Period Density Entropy (RPDE)
 5) Dynamical Complexity (DFA, Spread, D2, PPE)
 ## 🛠 Tech Stack
@@ -73,11 +72,8 @@ The models are trained using supervised learning algorithms to classify patients
 💡 Future Improvements
 
 🔹  Integrate Deep Learning Models for higher accuracy 
-
 🔹  Add a real-time API for mobile app integration  
-
 🔹  Improve UI with interactive data visualizations  
-
 🔹  Include more diseases for prediction  
 
 
