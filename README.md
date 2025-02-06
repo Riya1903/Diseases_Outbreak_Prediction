@@ -59,7 +59,7 @@ The models are trained using supervised learning algorithms to classify patients
 - Diabetes Model: Trained on the PIMA Indian Diabetes Dataset
 - Heart Disease Model: Based on the Cleveland Heart Disease Dataset
 - Parkinson’s Model: Uses Parkinson's Telemonitoring Dataset
-** Classification Algorithms Used:
+#### ** Classification Algorithms Used:
 ✔ Logistic Regression
 ✔ Random Forest
 ✔ Decision Tree
@@ -69,13 +69,15 @@ The models are trained using supervised learning algorithms to classify patients
  Achieved 80-90% accuracy across different models.
  Evaluated using Precision, Recall, F1-score, and ROC-AUC Score.
 💡 Future Improvements
-🔹 Integrate Deep Learning Models for higher accuracy
-🔹 Add a real-time API for mobile app integration
-🔹 Improve UI with interactive data visualizations
-🔹 Include more diseases for prediction
+
+🔹  Integrate Deep Learning Models for higher accuracy
+🔹  Add a real-time API for mobile app integration
+🔹  Improve UI with interactive data visualizations
+🔹  Include more diseases for prediction
 
 ## 👩‍💻 Contributing
-We welcome contributions! Feel free to fork the repo, open issues, and submit pull requests.
+  We welcome contributions! Feel free to fork the repo, open issues, and submit pull 
+  requests.
 ## 📜 License
-This project is licensed under the MIT License.
+   This project is licensed under the MIT License.
   
