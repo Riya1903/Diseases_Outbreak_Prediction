@@ -71,7 +71,7 @@ The models are trained using supervised learning algorithms to classify patients
 -  Evaluated using Precision, Recall, F1-score, and ROC-AUC Score.
 💡 Future Improvements
 
-🔹  Integrate Deep Learning Models for higher accuracy 
+🔹  Integrate Deep Learning Models for higher accuracy   
 🔹  Add a real-time API for mobile app integration  
 🔹  Improve UI with interactive data visualizations  
 🔹  Include more diseases for prediction  
