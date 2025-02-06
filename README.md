@@ -13,6 +13,7 @@ Insulin Level
 BMI (Body Mass Index)
 Diabetes Pedigree Function
 Age
+
 ❤️ 2. Heart Disease Prediction
 Evaluates heart disease risk using:
 
@@ -25,6 +26,7 @@ Exercise-Induced Angina & ST Depression
 Slope of Peak Exercise ST Segment
 Major Vessels Colored by Fluoroscopy
 Thalassemia Test Results
+
 🧠 3. Parkinson’s Disease Prediction
 Analyzes voice-related features to detect Parkinson’s symptoms:
 
