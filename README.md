@@ -31,6 +31,7 @@ This project is a Streamlit-based web application designed to predict the likeli
 - Fundamental Frequency (MDVP:Fo, MDVP:Fhi, MDVP:Flo)
 - Jitter and Shimmer Parameters
 - Harmonics-to-Noise Ratio (HNR)
+
 - Recurrence Period Density Entropy (RPDE)
 5) Dynamical Complexity (DFA, Spread, D2, PPE)
 ## 🛠 Tech Stack
@@ -39,3 +40,24 @@ This project is a Streamlit-based web application designed to predict the likeli
 - Scikit-learn – For machine learning models
 - Pickle – For model serialization
 - Pandas & NumPy – For data preprocessing
+## ⚙️ Installation & Setup
+1️⃣ Clone the Repository
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/disease-prediction.git
+cd disease-prediction
+2️⃣ Install Dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3️⃣ Run the Application
+
+bash
+Copy
+Edit
+streamlit run app.py
+  
