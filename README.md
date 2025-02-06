@@ -59,11 +59,16 @@ The models are trained using supervised learning algorithms to classify patients
 - Diabetes Model: Trained on the PIMA Indian Diabetes Dataset
 - Heart Disease Model: Based on the Cleveland Heart Disease Dataset
 - Parkinson’s Model: Uses Parkinson's Telemonitoring Dataset
-#### ** Classification Algorithms Used:
-✔ Logistic Regression
-✔ Random Forest
-✔ Decision Tree
-✔ Support Vector Machine (SVM)
+#### ** Classification Algorithms Used:  
+
+✔ Logistic Regression  
+
+✔ Random Forest  
+
+✔ Decision Tree  
+
+✔ Support Vector Machine (SVM)  
+
 
 ## 🛡️ Model Performance & Evaluation
  Achieved 80-90% accuracy across different models.
