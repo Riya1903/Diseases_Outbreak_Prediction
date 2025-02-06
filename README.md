@@ -52,4 +52,30 @@ This project is a Streamlit-based web application designed to predict the likeli
 
 - bash
         streamlit run ui.py
+## 📊 Machine Learning Models Used
+
+The models are trained using supervised learning algorithms to classify patients as positive or negative for a particular disease.
+
+- Diabetes Model: Trained on the PIMA Indian Diabetes Dataset
+- Heart Disease Model: Based on the Cleveland Heart Disease Dataset
+- Parkinson’s Model: Uses Parkinson's Telemonitoring Dataset
+** Classification Algorithms Used:
+✔ Logistic Regression
+✔ Random Forest
+✔ Decision Tree
+✔ Support Vector Machine (SVM)
+
+## 🛡️ Model Performance & Evaluation
+ Achieved 80-90% accuracy across different models.
+ Evaluated using Precision, Recall, F1-score, and ROC-AUC Score.
+💡 Future Improvements
+🔹 Integrate Deep Learning Models for higher accuracy
+🔹 Add a real-time API for mobile app integration
+🔹 Improve UI with interactive data visualizations
+🔹 Include more diseases for prediction
+
+## 👩‍💻 Contributing
+We welcome contributions! Feel free to fork the repo, open issues, and submit pull requests.
+## 📜 License
+This project is licensed under the MIT License.
   
