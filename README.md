@@ -15,23 +15,21 @@ This project is a Streamlit-based web application designed to predict the likeli
 8) Age
 
 ❤️ 2. Heart Disease Prediction
-Evaluates heart disease risk using:
-
-Age, Sex, and Chest Pain Type
-Resting Blood Pressure & Serum Cholesterol
-Fasting Blood Sugar Levels
-Resting Electrocardiographic Results
-Maximum Heart Rate Achieved
-Exercise-Induced Angina & ST Depression
-Slope of Peak Exercise ST Segment
-Major Vessels Colored by Fluoroscopy
-Thalassemia Test Results
+**Evaluates heart disease risk using:
+1) Age, Sex, and Chest Pain Type
+2) Resting Blood Pressure & Serum Cholesterol
+3) Fasting Blood Sugar Levels
+4) Resting Electrocardiographic Results
+5) Maximum Heart Rate Achieved
+6) Exercise-Induced Angina & ST Depression
+7) Slope of Peak Exercise ST Segment
+8) Major Vessels Colored by Fluoroscopy
+9) Thalassemia Test Results
 
 🧠 3. Parkinson’s Disease Prediction
-Analyzes voice-related features to detect Parkinson’s symptoms:
-
-Fundamental Frequency (MDVP:Fo, MDVP:Fhi, MDVP:Flo)
-Jitter and Shimmer Parameters
-Harmonics-to-Noise Ratio (HNR)
-Recurrence Period Density Entropy (RPDE)
-Dynamical Complexity (DFA, Spread, D2, PPE)
+** Analyzes voice-related features to detect Parkinson’s symptoms:
+1) Fundamental Frequency (MDVP:Fo, MDVP:Fhi, MDVP:Flo)
+2) Jitter and Shimmer Parameters
+3) Harmonics-to-Noise Ratio (HNR)
+4) Recurrence Period Density Entropy (RPDE)
+5) Dynamical Complexity (DFA, Spread, D2, PPE)
