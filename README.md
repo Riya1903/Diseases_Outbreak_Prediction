@@ -4,15 +4,15 @@ This project is a Streamlit-based web application designed to predict the likeli
 ## 🚀 Features
 
 ✅ 1. Diabetes Prediction
-Predicts diabetes risk based on input parameters such as:
-Pregnancies
-Glucose Level
-Blood Pressure
-Skin Thickness
-Insulin Level
-BMI (Body Mass Index)
-Diabetes Pedigree Function
-Age
+**Predicts diabetes risk based on input parameters such as:
+1) Pregnancies
+2) Glucose Level
+3) Blood Pressure
+4) Skin Thickness
+5) Insulin Level
+6) BMI (Body Mass Index)
+7) Diabetes Pedigree Function
+8) Age
 
 ❤️ 2. Heart Disease Prediction
 Evaluates heart disease risk using:
