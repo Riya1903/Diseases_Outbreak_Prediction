@@ -71,8 +71,8 @@ The models are trained using supervised learning algorithms to classify patients
 
 
 ## 🛡️ Model Performance & Evaluation
- Achieved 80-90% accuracy across different models.
- Evaluated using Precision, Recall, F1-score, and ROC-AUC Score.
+-  Achieved 80-90% accuracy across different models.
+-  Evaluated using Precision, Recall, F1-score, and ROC-AUC Score.
 💡 Future Improvements
 
 🔹  Integrate Deep Learning Models for higher accuracy
@@ -80,9 +80,11 @@ The models are trained using supervised learning algorithms to classify patients
 🔹  Improve UI with interactive data visualizations
 🔹  Include more diseases for prediction
 
-## 👩‍💻 Contributing
+## 👩‍💻 Contributing  
+
   We welcome contributions! Feel free to fork the repo, open issues, and submit pull 
   requests.
-## 📜 License
+## 📜 License  
+
    This project is licensed under the MIT License.
   
