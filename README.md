@@ -85,10 +85,8 @@ The models are trained using supervised learning algorithms to classify patients
 
 
 ## 👩‍💻 Contributing  
+Want to improve this project? Fork it, raise issues, and contribute! 🚀
 
-  We welcome contributions! Feel free to fork the repo, open issues, and submit pull 
-  requests.
-## 📜 License  
-
-   This project is licensed under the MIT License.
+🔗 GitHub Repo: []
+  
   
