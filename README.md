@@ -80,6 +80,6 @@ The models are trained using supervised learning algorithms to classify patients
 ## 👩‍💻 Contributing  
 Want to improve this project? Fork it, raise issues, and contribute! 🚀
 
-🔗 GitHub Repo: []
+🔗 GitHub Repo: [https://github.com/Riya1903/Diseases_Outbreak_Prediction]
   
   
