@@ -33,3 +33,9 @@ This project is a Streamlit-based web application designed to predict the likeli
 3) Harmonics-to-Noise Ratio (HNR)
 4) Recurrence Period Density Entropy (RPDE)
 5) Dynamical Complexity (DFA, Spread, D2, PPE)
+## 🛠 Tech Stack
+Python
+Streamlit – For building an interactive web UI
+Scikit-learn – For machine learning models
+Pickle – For model serialization
+Pandas & NumPy – For data preprocessing
