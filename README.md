@@ -42,22 +42,14 @@ This project is a Streamlit-based web application designed to predict the likeli
 - Pandas & NumPy – For data preprocessing
 ## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
+  -  bash
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/disease-prediction.git
-cd disease-prediction
 2️⃣ Install Dependencies
+  -  bash
+         pip install -r requirements.txt
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
 3️⃣ Run the Application
 
-bash
-Copy
-Edit
-streamlit run app.py
+- bash
+        streamlit run ui.py
   
