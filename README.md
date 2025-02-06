@@ -62,11 +62,8 @@ The models are trained using supervised learning algorithms to classify patients
 #### ** Classification Algorithms Used:  
 
 ✔ Logistic Regression  
-
 ✔ Random Forest  
-
 ✔ Decision Tree  
-
 ✔ Support Vector Machine (SVM)  
 
 
