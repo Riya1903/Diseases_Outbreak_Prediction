@@ -69,7 +69,7 @@ The models are trained using supervised learning algorithms to classify patients
 ## 🛡️ Model Performance & Evaluation
 -  Achieved 80-90% accuracy across different models.
 -  Evaluated using Precision, Recall, F1-score, and ROC-AUC Score.
-💡 Future Improvements
+## 💡 Future Improvements
 
 🔹  Integrate Deep Learning Models for higher accuracy   
 🔹  Add a real-time API for mobile app integration  
