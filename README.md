@@ -42,16 +42,19 @@
 ## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
   -  bash
-  -  
-       git clone https://github.com/Riya1903/Diseases_Outbreak_Prediction
+    
+       git clone https://github.com/Riya1903/Diseases_Outbreak_Predictio
+     
        cd  Diseases_Outbreak_Prediction
 
 2️⃣ Install Dependencies
   -  bash
+    
            pip install -r requirements.txt
 
 3️⃣ Run the Application
   - bash
+   
           streamlit run ui.py
 ## 📊 Machine Learning Models Used
 
