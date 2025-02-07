@@ -47,12 +47,11 @@
 
 2️⃣ Install Dependencies
   -  bash
-         pip install -r requirements.txt
+           pip install -r requirements.txt
 
 3️⃣ Run the Application
-
-- bash
-        streamlit run ui.py
+  - bash
+          streamlit run ui.py
 ## 📊 Machine Learning Models Used
 
 The models are trained using supervised learning algorithms to classify patients as positive or negative for a particular disease.
