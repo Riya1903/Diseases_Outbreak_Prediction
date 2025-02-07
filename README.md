@@ -42,10 +42,12 @@
 ## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
   -  bash
-  -  
+    
       git clone https://github.com/Riya1903/Diseases_Outbreak_Predictio
      
+     
        cd  Diseases_Outbreak_Prediction
+     
 
 2️⃣ Install Dependencies
   -  bash
